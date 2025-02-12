@@ -6,6 +6,13 @@
             "name": "TemperatureConverter",
             "request": "launch",
             "mainClass": "TemperatureConverter",
+            "projectName": "TemperatureConverterTemplate_6127a702"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConverter",
+            "request": "launch",
+            "mainClass": "TemperatureConverter",
             "projectName": "temperaturetest-grieggs_49b2b516"
         },
         {
