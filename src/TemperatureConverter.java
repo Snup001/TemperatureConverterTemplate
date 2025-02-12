@@ -19,14 +19,8 @@ public class TemperatureConverter{
 
         System.out.println("Enter a temperature in Fahrenheit:" + newTemp );
         System.out.println("")
-    
-        
-        git add TemperatureConverter.java
-        git commit -m "Implemented temperature converter"
-        git push origin main
 
-        git config --global user.email "Sn001@iup.edu";
-        git config --global user.name "Stefan Nikolic";
+        
     
     
     
